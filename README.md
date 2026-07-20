@@ -2,7 +2,8 @@
 
 ## Bio-inspired Auditory Models
 
-### Auditory
-Auditory 
+### Auditory Signal Processing
 
+### Model Dissection
 
+### 

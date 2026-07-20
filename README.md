@@ -1,9 +1,9 @@
 # DEOKKI MIN
 
-## Bio-inspired Auditory Models
+## Pursuing "Bio-inspired Auditory Models"
 
-### Auditory Signal Processing
+### • Auditory Signal Processing
 
-### Model Dissection
+### • Model Dissection
 
-### 
+### • 

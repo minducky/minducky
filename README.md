@@ -1,4 +1,7 @@
 # DEOKKI MIN
-Call me Ducky 🦆
+
+### Bio-inspired Auditory Models
+
+#### Auditory Signal Processing
 
 

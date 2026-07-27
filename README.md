@@ -2,10 +2,10 @@
 
 ## Pursuing "Bio-inspired Auditory Models"
 
-### • Acoustic Signal Processing
+### • acoustic-signal-processing
 
-### • Auditory Signal Processing
+### • auditory-layers
 
-### • Model Dissection
+### • model-dissection
 
-### • Bio-inspired AI
+### • binaural-localisation

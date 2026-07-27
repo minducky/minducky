@@ -6,6 +6,8 @@
 
 ### • auditory-layers
 
-### • model-dissection
+### - plotter
 
-### • binaural-localisation
+### - model-dissection
+
+### - binaural-localisation

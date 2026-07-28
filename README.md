@@ -2,12 +2,14 @@
 
 ## Pursuing "Bio-inspired Auditory Models"
 
-### • [acoustic-signal-processing](https://github.com/minducky/acoustic-signal-processing)
+### Repo List
 
-### • auditory-layers
+• [acoustic-signal-processing](https://github.com/minducky/acoustic-signal-processing)
 
-### • plotter
+• [auditory-layers](https://github.com/minducky/auditory-layers)
 
-### • model-dissection
+• [plotter](https://github.com/minducky/plotter)
 
-### • binaural-localisation
+• [model-dissection](https://github.com/minducky/model-dissection)
+
+• binaural-localisation

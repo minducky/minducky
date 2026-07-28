@@ -2,7 +2,7 @@
 
 ## Pursuing "Bio-inspired Auditory Models"
 
-### • [acoustic-signal-processing](
+### • [acoustic-signal-processing](https://github.com/minducky/acoustic-signal-processing)
 
 ### • auditory-layers
 

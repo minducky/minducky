@@ -1,3 +1,3 @@
 # DEOKKI MIN
 
-## Pursuing "Bio-inspired Auditory Models"
+## Pursuing Bio-inspired Auditory Models
